@@ -1,0 +1,42 @@
+|image0|
+
+==================== ===============================================
+**Authors**             The APRS Working Group
+==================== ===============================================
+**Document Version**    **Approved Version 1.0.1**
+**Filename**            aprs101.pdf
+**Date of Issue**       **29 August 2000**
+**Copyright**           ©2000 APRS Working Group All rights reserved
+**Technical Editor**    Ian Wade, G3NRW
+==================== ===============================================
+
+..
+
+APRS Protocol Reference Protocol Version 1.0
+
+by the APRS Working Group Edited by Ian Wade
+
+Published by
+
+Tucson Amateur Packet Radio Corp 8987–309 East Tanque Verde Road,
+#337 Tucson
+
+AZ 85749-9399
+
+United States of America
+`http://www.tapr.org <http://www.tapr.org/>`__
+
+ISBN 0-9644707-6-4
+
+TAPR Publication Number: 99-4
+
+Copyright ©2000 APRS Working Group All rights reserved
+
+APRS\ :sup:`®` is a registered trademark of Bob Bruninga.
+
+WinAPRS™, MacAPRS™, X-APRS™, PalmAPRS™ and APRS/CE™ are trademarks
+using the APRS\ :sup:`®` name, licensed from Bob Bruninga.
+
+This document may be copied for non-commercial purposes only, and
+must include the above copyright statement and trademark statements
+in full.
