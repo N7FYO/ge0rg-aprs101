@@ -55,10 +55,9 @@ The address **SKY** is used for Skywarn stations.
 
 Packets addressed to **SPCL** are intended for special events. APRS
 software can display such packets to the exclusion of all others, to
-minimize clutter on
-
-the screen from other stations not involved in the special event. The
-addresses **TEL** and **TLM** is used for telemetry stations.
+minimize clutter on the screen from other stations not involved in the
+special event. The addresses **TEL** and **TLM** is used for telemetry
+stations.
 
 **Generic APRS Address with**
 
@@ -125,7 +124,6 @@ indicate a version number):
 This table will be added to by the APRS Working Group.
 
 For example, a station using version 3.2.6 of MacAPRS could use the
-
 destination callsign APM326.
 
 The Experimental destination is designated for *temporary* use only

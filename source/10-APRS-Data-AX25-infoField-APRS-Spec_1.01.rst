@@ -75,16 +75,16 @@ The table on the next page shows a complete list of all the different
 possible types of APRS Data and APRS Data Extension.
 
 +----------------------+----------------------+----------------------+
-|                      |    Possible APRS | Possible APRS            |
-|                      |    Data          | Data Extension           |
+|                      |    Possible APRS     | Possible APRS        |
+|                      |    Data              | Data Extension       |
 +======================+======================+======================+
 | Position             |    Time (DHM or HMS) |    Course and Speed  |
 |                      |    Lat/long          |                      |
 |                      |    coordinates       |    Power, Effective  |
 |                      |                      |    Antenna           |
-|                      |    Compressed        |    Hei               |
-|                      |    lat/lon           | ght/Gain/Directivity |
-|                      | g/course/speed/radio |    Pre-Calculated    |
+|                      |    Compressed        |    Height/           |
+|                      |    lat/long/         |    Gain/Directivity  |
+|                      |   course/speed/radio |    Pre-Calculated    |
 |                      |    range/altitude    |    Radio Range       |
 |                      |    Symbol Table ID   |                      |
 |                      |    and Symbol Code   |    Omni DF Signal    |
@@ -123,9 +123,9 @@ possible types of APRS Data and APRS Data Extension.
 |                      |                      |    Hei               |
 |                      |                      | ght/Gain/Directivity |
 +----------------------+----------------------+----------------------+
-| Objects and      |    Time (DHM or HMS) |    Pre-Calculated    |
+| Objects and          |    Time (DHM or HMS) |    Pre-Calculated    |
 |                      |    Lat/long          |    Radio Range Omni  |
-| Items            |    coordinates       |    DF Signal         |
+| Items                |    coordinates       |    DF Signal         |
 |                      |                      |    Strength Area     |
 |                      |    Compressed        |    Object            |
 |                      |    lat/lon           |                      |
@@ -138,7 +138,7 @@ possible types of APRS Data and APRS Data Extension.
 |                      |    Raw weather       |                      |
 |                      |    station data      |                      |
 +----------------------+----------------------+----------------------+
-| Weather          |    Time (MDHM)       |    Wind Direction    |
+| Weather              |    Time (MDHM)       |    Wind Direction    |
 |                      |    Lat/long          |    and Speed Storm   |
 |                      |    coordinates       |    Data (in Comment  |
 |                      |                      |    field)            |
